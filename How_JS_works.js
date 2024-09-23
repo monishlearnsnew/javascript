@@ -1,1 +1,0 @@
-// File to understand how javascript works
